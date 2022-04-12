@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\I2C_String\\Controller"
+		},
+		{
+			"name": "Peripheral",
+			"path": "..\\..\\I2C_String\\Peripheral"
+		},
+		{
+			"name": "LoRa_Test",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
